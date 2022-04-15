@@ -1,0 +1,17 @@
+.ragister-form {
+  width: 50%;
+  margin: auto;
+}
+.ragister-form h2 {
+  text-align: center;
+}
+.ragister-form input {
+  display: block;
+  width: 100%;
+  height: 50px;
+  font-size: 18px;
+  padding-left: 10px;
+  margin-bottom: 15px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
